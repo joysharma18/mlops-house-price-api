@@ -2,3 +2,11 @@ __pycache__/
 *.pyc
 .venv/
 model/*.pkl
+# Python cache
+__pycache__/
+
+# Virtual environment
+.venv/
+
+# Environment variables - DO NOT COMMIT
+.env
